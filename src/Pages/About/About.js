@@ -16,7 +16,7 @@ const About = () => {
               <div className="row">
                 <div className="col-lg-12">
                   <img
-                    src={require("./images/IMG_7530.jpg")}
+                    src="https://media-exp1.licdn.com/dms/image/C5603AQHDpEYzxIsWzQ/profile-displayphoto-shrink_200_200/0/1523511163303?e=1619654400&v=beta&t=qQqdXFESgIG6IVfLs4W8LB4x1OUvrmio_1XVxKWnpJk"
                     className="thumbnail float-left pr-2 pb-2"
                     alt="me"
                   />
