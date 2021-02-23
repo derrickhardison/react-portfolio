@@ -20,7 +20,10 @@ const Contact = () => {
                                 <a href="https://github.com/derrickhardison" target="_blank" rel="noreferrer"><p>https://github.com/derrickhardison</p></a>
 
                                 <h2 className="text-muted">Email</h2>
-                                <a href="https://github.com/derrickhardison" target="_blank" rel="noreferrer"><p>https://github.com/derrickhardison</p></a>
+                                <a href="mailto:derricklhardison@gmail.com" target="_blank" rel="noreferrer"><p>derricklhardison@gmail.com</p></a>
+
+                                <h2 className="text-muted">Resume</h2>
+                                <a href="https://docs.google.com/document/d/1Z-iW1wj0CQVmpOQENWB4a-8dRGnL6S0BGtoxGQQmFuE/edit?usp=sharing" target="_blank" rel="noreferrer"><p>View My Resume</p></a>
 
                                 <h2 className="text-muted">Phone</h2>
                                 <p>Hey, we just met! Try sending an email first.  </p>
