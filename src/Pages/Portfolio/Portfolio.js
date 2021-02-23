@@ -7,7 +7,6 @@ const Portfolio = () => {
             <div class="container">
                 <div class="row">
                     <div class = "col">
-                        <h1>Check out some of my work</h1>
                         <Project />
                     </div>
                 </div>

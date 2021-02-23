@@ -5,10 +5,10 @@ const Project = () => {
         <main class ="container">
         <div class="row">
             <div class="col-12 mt-2">   
-              <div class="jumbotron bg-white">
+              <div class="jumbotron">
                   <div class="row">
                       <div class="col-12">
-                          <h1 class="display-4">Portfolio</h1>
+                          <h1 class="display-4">Check out some of my work!</h1>
                           <hr class="my-6"/>
                       </div>
                   </div>
