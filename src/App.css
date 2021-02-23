@@ -1,1 +1,45 @@
+#aboutSection {
+    background-color: gray;
+}
+
+#headshotPhoto {
+    float: left;
+}
+
+#portfolioSection {
+    background-color: gray;
+}
+
+#portfolioHeader {
+    text-align: center;
+    font-weight: bold;
+}
+
+#contactHeader {
+    text-align: center;
+    font-weight: bold;
+}
+
+#aboutHeader {
+    text-align: center;
+    font-weight: bold;
+}
+
+body {
+    background-color: gray;
+}
+
+header nav ul {
+    list-style-type: none;
+}
+
+header ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+#portfolioSection img {
+    width: 286;
+    height: 171;
+}
 
