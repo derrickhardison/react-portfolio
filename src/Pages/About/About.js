@@ -21,10 +21,10 @@ const About = () => {
                     alt="me"
                   />
                   <p>
-                    Hi! I'm Derrick and I'm an aspiring full-stack web
-                    developer. I have years of experience in the information
-                    technology industry, but on the networking side of things. I
-                    am now looking to transition over to the development world.
+                    Hi! I'm Derrick. I'm a full-stack web developer based in
+                    Atlanta, Georgia that specializes in building responsive, detailed,
+                    user-friendly, web applications. I have experience with MongoDB/MySQL, Express,
+                    React, and Node.js (MERN).
                   </p>
                   <p>
                     Visit my GitHub profile{" "}
