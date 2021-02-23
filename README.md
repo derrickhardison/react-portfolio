@@ -10,6 +10,8 @@ Some, but not all, features used include:
 
 - react router dom
 
+The live version of this application can be found here: [Deployed version](https://derrickhardison.github.io/react-portfolio/)
+
 
 
 ## Table of Contents
