@@ -1,18 +1,19 @@
 import React from 'react';
+import "./style.css";
 
 const Navbar = () => {
     return (
-        <nav class="navbar navbar-dark bg-dark">
-        <span class="navbar-brand mb-0 h1">Derrick Hardison</span>
+        <nav id="navbar" class="navbar">
+        <span class="navbar-brand mb-0 h1 portfolioName">Derrick Hardison</span>
         <ul>
           <li>
-            <a href="#aboutSection">About</a>
+            <a href="#/">About</a>
           </li>
           <li>
-            <a href="#portfolioSection">Portfolio</a>
+            <a href="#/portfolio">Portfolio</a>
           </li>
           <li>
-            <a href="#contactSection">Contact</a>
+            <a href="#/contact">Contact</a>
           </li>
         </ul>
       </nav>
