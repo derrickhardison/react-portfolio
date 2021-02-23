@@ -76,7 +76,7 @@ const Project = () => {
                     </a>
                   </div>
                 </div>
-                <br/>
+                <br />
               </div>
               <div className="col-4">
                 <div className="card">
@@ -116,16 +116,22 @@ const Project = () => {
               <div className="col-4">
                 <div className="card">
                   <div className="card-body">
-                    <h5 className="card-title">Card title</h5>
+                    <h5 className="card-title">Team Generator</h5>
 
                     <p className="card-text">
                       Some quick example text to build on the card title and
                       make up the bulk of the card's content.
                     </p>
-                    <a href="/" className="card-link">
+                    <a
+                      href="https://github.com/derrickhardison/team-generator"
+                      className="card-link"
+                    >
                       GitHub Repo
                     </a>
-                    <a href="/" className="card-link">
+                    <a
+                      href="https://github.com/derrickhardison/team-generator"
+                      className="card-link"
+                    >
                       Deployed Site
                     </a>
                   </div>
@@ -134,16 +140,24 @@ const Project = () => {
               <div className="col-4">
                 <div className="card">
                   <div className="card-body">
-                    <h5 className="card-title">Card title</h5>
+                    <h5 className="card-title">Budget Tracker</h5>
 
                     <p className="card-text">
-                      Some quick example text to build on the card title and
-                      make up the bulk of the card's content.
+                      Budget Tracker allows users to add expenses and deposits
+                      to their budget with or without a connection. When
+                      entering transactions offline, they should populate the
+                      total when brought back online.
                     </p>
-                    <a href="/" className="card-link">
+                    <a
+                      href="https://github.com/derrickhardison/budget-tracker"
+                      className="card-link"
+                    >
                       GitHub Repo
                     </a>
-                    <a href="/" className="card-link">
+                    <a
+                      href="https://floating-temple-52038.herokuapp.com/"
+                      className="card-link"
+                    >
                       Deployed Site
                     </a>
                   </div>
@@ -152,16 +166,22 @@ const Project = () => {
               <div className="col-4">
                 <div className="card">
                   <div className="card-body">
-                    <h5 className="card-title">Card title</h5>
+                    <h5 className="card-title">Workday Scheduler</h5>
 
                     <p className="card-text">
-                      Some quick example text to build on the card title and
-                      make up the bulk of the card's content.
+                      Workday Scheduler is a simple application that allows
+                      users to plan and schedule their day.
                     </p>
-                    <a href="/" className="card-link">
+                    <a
+                      href="https://github.com/derrickhardison/calendar"
+                      className="card-link"
+                    >
                       GitHub Repo
                     </a>
-                    <a href="/" className="card-link">
+                    <a
+                      href="https://derrickhardison.github.io/calendar/"
+                      className="card-link"
+                    >
                       Deployed Site
                     </a>
                   </div>
