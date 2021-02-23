@@ -3,22 +3,22 @@ import React from "react";
 const About = () => {
   return (
     <div>
-      <main class="container">
-        <div class="row mt-5">
-          <div class="col-12 col-md-10 col-lg-8 mt-5">
-            <div class="jumbotron">
-              <div class="row">
-                <div class="col-12">
-                  <h1 class="display-4">A little about Derrick...</h1>
-                  <hr class="my-6" />
+      <main className="container">
+        <div className="row mt-5">
+          <div className="col-12 col-md-10 col-lg-8 mt-5">
+            <div className="jumbotron">
+              <div className="row">
+                <div className="col-12">
+                  <h1 className="display-4">A little about Derrick...</h1>
+                  <hr className="my-6" />
                 </div>
               </div>
-              <div class="row">
-                <div class="col-lg-12">
+              <div className="row">
+                <div className="col-lg-12">
                   <img
-                    src="https://placekitten.com/300/300"
-                    class="img-thumbnail float-left pr-2 pb-2"
-                    alt="cat"
+                    src={require("./images/IMG_7530.jpg")}
+                    className="thumbnail float-left pr-2 pb-2"
+                    alt="me"
                   />
                   <p>
                     Hi! I'm Derrick and I'm an aspiring full-stack web

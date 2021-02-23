@@ -3,8 +3,8 @@ import "./style.css";
 
 const Navbar = () => {
     return (
-        <nav id="navbar" class="navbar">
-        <span class="navbar-brand mb-0 h1 portfolioName">Derrick Hardison</span>
+        <nav id="navbar" className="navbar">
+        <span className="navbar-brand mb-0 h1 portfolioName">Derrick Hardison</span>
         <ul>
           <li>
             <a href="#/">About</a>

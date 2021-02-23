@@ -3,10 +3,10 @@ import "./style.css"
 
 const Footer = () => {
   return (
-    <footer class="footer mt-auto py-3">
-      <div class="container">
-      <div class="text-center">
-        <span class="text-muted">&copy; 2020 Derrick Hardison</span>
+    <footer className="footer mt-auto py-3">
+      <div className="container">
+      <div className="text-center">
+        <span className="text-muted">&copy; 2020 Derrick Hardison</span>
         </div>
       </div>
     </footer>
