@@ -1,43 +1,134 @@
-import React from 'react';
+import React from "react";
 
 const Project = () => {
-    return (
-        <main className ="container">
-        <div className="row">
-            <div className="col-12 mt-2">   
-              <div className="jumbotron">
-                  <div className="row">
-                      <div className="col-12">
-                          <h1 className="display-4">Check out some of my work!</h1>
-                          <hr className="my-6"/>
-                      </div>
-                  </div>
-                  <div className ="row mt-3">
-                      <div className="col-lg-6 mt-3">
-                          <img src="https://placekitten.com/350/350" className ="img-fluid w-100" alt="cat"/>
-                      </div>
-                      <div className="col-lg-6 mt-3">
-                          <img src="https://placekitten.com/350/350" className ="img-fluid w-100" alt="cat"/>
-                      </div>
-                  </div>
-                  <div className ="row mt-3">
-                      <div className="col-lg-6 mt-3">
-                          <img src="https://placekitten.com/350/350" className ="img-fluid w-100" alt="cat"/>
-                      </div>
-                      <div className="col-lg-6 mt-3">
-                          <img src="https://placekitten.com/350/350" className ="img-fluid w-100" alt="cat"/>
-                      </div>
-                  </div>
-                  <div className ="row mt-4">
-                      <div className ="col-lg-6">
-                          <img src="https://placekitten.com/350/350" className ="img-fluid w-100" alt="cat"/>                                                          
-                      </div>
-                  </div>
+  return (
+    <main className="container">
+      <div className="row">
+        <div className="col-12 mt-2">
+          <div className="jumbotron">
+            <div className="row">
+              <div className="col-12">
+                <h1 className="display-4">Check out some of my work!</h1>
+                <hr className="my-4" />
               </div>
             </div>
+            <div className="row">
+              <div className="col-4">
+                <div className="card">
+                  <div className="card-body">
+                    <h5 className="card-title">Card title</h5>
+                    <h6 className="card-subtitle mb-2 text-muted">Card subtitle</h6>
+                    <p className="card-text">
+                      Some quick example text to build on the card title and
+                      make up the bulk of the card's content.
+                    </p>
+                    <a href="/" className="card-link">
+                      GitHub Repo
+                    </a>
+                    <a href="/" className="card-link">
+                      Deployed Site
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div className="col-4">
+                <div className="card">
+                  <div className="card-body">
+                    <h5 className="card-title">Card title</h5>
+                    <h6 className="card-subtitle mb-2 text-muted">Card subtitle</h6>
+                    <p className="card-text">
+                      Some quick example text to build on the card title and
+                      make up the bulk of the card's content.
+                    </p>
+                    <a href="/" className="card-link">
+                      GitHub Repo
+                    </a>
+                    <a href="/" className="card-link">
+                      Deployed Site
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div className="col-4">
+                <div className="card">
+                  <div className="card-body">
+                    <h5 className="card-title">Card title</h5>
+                    <h6 className="card-subtitle mb-2 text-muted">Card subtitle</h6>
+                    <p className="card-text">
+                      Some quick example text to build on the card title and
+                      make up the bulk of the card's content.
+                    </p>
+                    <a href="/" className="card-link">
+                      GitHub Repo
+                    </a>
+                    <a href="/" className="card-link">
+                      Deployed Site
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="row">
+              <div className="col-4">
+                <div className="card">
+                  <div className="card-body">
+                    <h5 className="card-title">Card title</h5>
+                    <h6 className="card-subtitle mb-2 text-muted">Card subtitle</h6>
+                    <p className="card-text">
+                      Some quick example text to build on the card title and
+                      make up the bulk of the card's content.
+                    </p>
+                    <a href="/" className="card-link">
+                      GitHub Repo
+                    </a>
+                    <a href="/" className="card-link">
+                      Deployed Site
+                    </a>
+                  </div>
+                </div>
+              </div>{" "}
+              <div className="col-4">
+                <div className="card">
+                  <div className="card-body">
+                    <h5 className="card-title">Card title</h5>
+                    <h6 className="card-subtitle mb-2 text-muted">Card subtitle</h6>
+                    <p className="card-text">
+                      Some quick example text to build on the card title and
+                      make up the bulk of the card's content.
+                    </p>
+                    <a href="/" className="card-link">
+                      GitHub Repo
+                    </a>
+                    <a href="/" className="card-link">
+                      Deployed Site
+                    </a>
+                  </div>
+                </div>
+              </div>{" "}
+              <div className="col-4">
+                <div className="card">
+                  <div className="card-body">
+                    <h5 className="card-title">Card title</h5>
+                    <h6 className="card-subtitle mb-2 text-muted">Card subtitle</h6>
+                    <p className="card-text">
+                      Some quick example text to build on the card title and
+                      make up the bulk of the card's content.
+                    </p>
+                    <a href="/" className="card-link">
+                      GitHub Repo
+                    </a>
+                    <a href="/" className="card-link">
+                      Deployed Site
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
-      </main>
-    );
+      </div>
+    </main>
+  );
 };
 
 export default Project;
