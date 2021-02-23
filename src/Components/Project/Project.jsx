@@ -16,16 +16,28 @@ const Project = () => {
               <div className="col-4">
                 <div className="card">
                   <div className="card-body">
-                    <h5 className="card-title">Card title</h5>
-                    <h6 className="card-subtitle mb-2 text-muted">Card subtitle</h6>
+                    <h5 className="card-title">Digital Coffee</h5>
+
                     <p className="card-text">
-                      Some quick example text to build on the card title and
-                      make up the bulk of the card's content.
+                      Digital Coffee utilizes HTML, CSS (Bootstrap &
+                      FontAwesome), JavaScript, and various different APIs
+                      (Listed in ReadMe) to randomly generate quotes, images,
+                      and weather information according to the user's choices.
                     </p>
-                    <a href="/" className="card-link">
+                    <a
+                      href="https://github.com/derrickhardison/digital-coffee"
+                      className="card-link"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
                       GitHub Repo
                     </a>
-                    <a href="/" className="card-link">
+                    <a
+                      href="https://ahnlok.github.io/digital-coffee/"
+                      className="card-link"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
                       Deployed Site
                     </a>
                   </div>
@@ -34,38 +46,70 @@ const Project = () => {
               <div className="col-4">
                 <div className="card">
                   <div className="card-body">
-                    <h5 className="card-title">Card title</h5>
-                    <h6 className="card-subtitle mb-2 text-muted">Card subtitle</h6>
+                    <h5 className="card-title">Fitness Tracker</h5>
+
                     <p className="card-text">
-                      Some quick example text to build on the card title and
-                      make up the bulk of the card's content.
+                      Fitness Tracker utilizes a Mongo database with a Mongoose
+                      schema and handles routes with Express. It will allow the
+                      user the ability to view, create, and track daily
+                      workouts. The user will to be able to log multiple
+                      exercises in a workout on a given day and track the name,
+                      type, weight, sets, reps, and duration of exercise. If the
+                      exercise is a cardio exercise, the user should be able to
+                      track the distance traveled.
                     </p>
-                    <a href="/" className="card-link">
+                    <a
+                      href="https://github.com/derrickhardison/fitness-tracker"
+                      className="card-link"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
                       GitHub Repo
                     </a>
-                    <a href="/" className="card-link">
+                    <a
+                      href="https://murmuring-shore-54007.herokuapp.com/"
+                      className="card-link"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
                       Deployed Site
                     </a>
                   </div>
                 </div>
+                <br/>
               </div>
               <div className="col-4">
                 <div className="card">
                   <div className="card-body">
-                    <h5 className="card-title">Card title</h5>
-                    <h6 className="card-subtitle mb-2 text-muted">Card subtitle</h6>
+                    <h5 className="card-title">Promethium</h5>
+
                     <p className="card-text">
-                      Some quick example text to build on the card title and
-                      make up the bulk of the card's content.
+                      Promethium is an app that allows users to add garments in
+                      their closets for cataloguing. After adding a garment to
+                      the database, they can then add specific garments to saved
+                      outfits that are easily accessible. The app will help
+                      users catalogue their clothes and assist them in viewing
+                      the entire contents of their closet with ease.
                     </p>
-                    <a href="/" className="card-link">
+                    <a
+                      href="https://github.com/derrickhardison/promethium"
+                      className="card-link"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
                       GitHub Repo
                     </a>
-                    <a href="/" className="card-link">
+                    <a
+                      href="https://promethium.herokuapp.com/"
+                      className="card-link"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
                       Deployed Site
                     </a>
                   </div>
                 </div>
+                <br />
               </div>
             </div>
             <div className="row">
@@ -73,7 +117,7 @@ const Project = () => {
                 <div className="card">
                   <div className="card-body">
                     <h5 className="card-title">Card title</h5>
-                    <h6 className="card-subtitle mb-2 text-muted">Card subtitle</h6>
+
                     <p className="card-text">
                       Some quick example text to build on the card title and
                       make up the bulk of the card's content.
@@ -91,7 +135,7 @@ const Project = () => {
                 <div className="card">
                   <div className="card-body">
                     <h5 className="card-title">Card title</h5>
-                    <h6 className="card-subtitle mb-2 text-muted">Card subtitle</h6>
+
                     <p className="card-text">
                       Some quick example text to build on the card title and
                       make up the bulk of the card's content.
@@ -109,7 +153,7 @@ const Project = () => {
                 <div className="card">
                   <div className="card-body">
                     <h5 className="card-title">Card title</h5>
-                    <h6 className="card-subtitle mb-2 text-muted">Card subtitle</h6>
+
                     <p className="card-text">
                       Some quick example text to build on the card title and
                       make up the bulk of the card's content.
